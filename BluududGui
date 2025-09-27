@@ -825,7 +825,7 @@ MoonHUB.MouseButton1Down:connect(function()
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/IlikeyocutgHAH/MoonUI-v13-102-SCRIPTS/main/MoonUI%20v13!'))()
 end)
 JohnDoe.MouseButton1Down:connect(function() 
-	loadstring(game:HttpGet("https://pastebin.com/raw/vvMD5J4n"))();
+	loadstring(game:HttpGet("https://rawscripts.net/raw/Client-Replication-John-doe-up-by-gojohdkaisenkt-34198"))();
 end)
 noclipGUI.MouseButton1Down:connect(function() 
 	loadstring(game:HttpGet("https://pastebin.com/raw/B5xRxTnk",true))()
